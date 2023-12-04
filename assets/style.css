@@ -277,7 +277,7 @@ body * {
   }
   .tg-hover_card,
   .tg-hover_card img {
-    border-radius: 18px;
+    border-radius: 1.25vw;
   }
   .tg-cards-wrapper .col:nth-child(2) .tg-hover_card:first-child, 
   .tg-cards-wrapper .col:nth-child(4) .tg-hover_card:first-child {
